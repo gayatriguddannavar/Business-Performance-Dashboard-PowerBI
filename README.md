@@ -1,0 +1,24 @@
+<img width="1307" height="787" alt="Screenshot 2026-04-09 130905" src="https://github.com/user-attachments/assets/cb230bc0-dfbb-411d-b627-9c83856ff3e2" />Business Performance Dashboard (Power BI + SQL)
+📌 Project Overview
+Built an executive-level Power BI dashboard analyzing 
+e-commerce transactions to track revenue trends, 
+customer behavior, and seller performance.
+
+🛠️ Tools Used
+- SQL — Data extraction & transformation
+- Power BI — Interactive dashboard
+- DAX — Custom KPI measures
+
+📊 Dashboard Pages
+1. Executive Dashboard — Revenue KPIs, Monthly Trend, Category Analysis
+2. Customer Analysis — New vs Repeat, Top Customers, State Distribution
+3. Seller Performance — Top Sellers, Category Contribution
+
+🔍 Key Insights
+- beleza_saude is the top revenue category ($599)
+- 0% repeat rate indicates customer retention opportunity
+- Revenue concentrated among top 5 sellers
+
+📁 Dataset
+Source: Kaggle E-commerce Dataset
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce 
